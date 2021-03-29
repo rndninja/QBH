@@ -1,0 +1,1 @@
+Entire Pitch Contours are extracted from MIDI files in the MIDI_Database folder and store here as .npy files.

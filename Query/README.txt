@@ -1,0 +1,1 @@
+This folder is where you put all the query wav files
